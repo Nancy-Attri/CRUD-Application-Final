@@ -1,6 +1,7 @@
 body {
     font-family: Arial, sans-serif;
-    background-color:rgb(195, 43, 73)
+        /* background-color:rgb(195, 43, 73) */
+        background-image: url("download.jpeg")
     ;
     margin: 0;
     padding: 20px;
